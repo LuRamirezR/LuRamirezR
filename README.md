@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Luisa Fernanda Ramirez
 
 🌱 I'm currently training to be **WEB Development Full-Stack**  
-🧠 I'm learning HTML, CSS and JavaScript in FrontEnd  
+🧠 I'm learning HTML, CSS, JavaScript and React in FrontEnd  
 🧠 I'm learning Java in BackEnd  
 🌍 I'm based in Colombia  
 🤜🤛 I frequently attend tech community events like: Google Developer Group (GDG), PyLadies, Pioneras  
